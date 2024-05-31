@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LilweatherApplication<lilweather>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.lilweather.LilweatherApplication",
+            "projectName": "lilweather",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-lilweatherApplication<lilweather>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.lilweather.lilweatherApplication",
+            "projectName": "lilweather",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
